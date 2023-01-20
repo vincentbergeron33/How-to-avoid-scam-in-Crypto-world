@@ -122,8 +122,10 @@ section a:hover {
     float: left;
     width: 50%;
     text-align: left;
-    margin: auto;
-    padding: 0 20 0 20;
+    margin: 0 auto;
+    position: relative;
+    top: 20%;
+    border-radius: 15%;
  }
 
 
