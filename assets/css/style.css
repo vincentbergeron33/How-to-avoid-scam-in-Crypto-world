@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Lato:wght@300&family=Unbounded:wght@500&display=swap');
+
+/* Style for header */
+
+#menu {
+    font-size:110%;
+    letter-spacing: 1px;
+    width:80%;
+    height: 30px;
+}
+
+#menu li {
+        float: left;
+        list-style-type: none;
+        margin-right: 30px;
+        text-align: center;
+        font-family:unbounded, sans-serif;
+        background-color: rgba(198, 191, 177, 0.5);
+        border-radius: 25%;
+        padding: 5px;
+}
+
+#menu a {
+    text-decoration:none;
+    color:black;
+}
+
+#menu a:hover {
+    color:#CD6702;
+    border-bottom: 1px solid #CD6702;
+}
+
+#menu .active {
+    color:#CD6702;
+    border-bottom: 1px solid #CD6702;
+}
+ #menu .small-logo {
+    background-color: white;
+ }
+
+ /* To add to the read me, I struggle to take out the background color from the small logo*/
