@@ -175,3 +175,51 @@ section a:hover {
  .center-about {
  }
  */
+
+ /* Type of token */
+
+ .list-odd div {
+    background-color: rgba(0, 0, 139, 0.4);
+    color:white;
+    font-weight: bold;
+    width: 50%;
+    float: left;
+    clear: both;
+    margin-top: 10px;
+    border-radius: 15%;
+    padding: 10px;
+ }
+
+ .list-even div {
+    background-color: rgba(148,0, 211, 0.15);
+    width: 50%;
+    float: right;
+    clear: both;
+    margin-top: 10px;
+    border-radius: 10%;
+    padding: 10px;
+ }
+
+ .list-odd h3 {
+    text-align: center;
+    width: 90%;
+ }
+
+.list-odd p{
+    text-align: left;
+    width: 90%;
+    clear: both;
+    margin: 0 auto;
+ }
+
+.list-even p {
+    text-align: right;
+    width: 90%;
+    clear: both;
+    margin: 0 auto;
+ }
+
+ .list-even h3 {
+    text-align: center;
+    width: 90%;
+ }
