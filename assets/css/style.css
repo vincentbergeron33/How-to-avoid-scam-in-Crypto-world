@@ -34,19 +34,20 @@ section a:hover {
 #menu {
     font-size:110%;
     letter-spacing: 1px;
-    width:80%;
+    width:90%;
     height: 30px;
+    left: 10px;
 }
 
 #menu li {
         float: left;
         list-style-type: none;
-        margin-right: 30px;
+        margin-left: 10px;
         text-align: center;
         font-family:unbounded, sans-serif;
         background-color: rgba(148,0, 211, 0.15);
         border-radius: 25%;
-        padding: 5px;
+        padding: 5px 0 0;
 }
 
 #menu a {
@@ -55,16 +56,17 @@ section a:hover {
 }
 
 #menu a:hover {
-    color: #00008b;
-    border-bottom: 1px solid #00008b;
+    color: #CD6702;
+    border-bottom: 1px solid #CD6702;
 }
 
 #menu .active {
-    color:#00008b;
-    border-bottom: 1px solid #00008b;
+    color:#CD6702;
+    border-bottom: 1px solid #CD6702;
 }
  #menu .small-logo {
     background-color: white;
+    color:#CD6702;
  }
 
  /* To add to the read me, I struggle to take out the background color from the small logo*/
@@ -72,14 +74,16 @@ section a:hover {
  /* welcome image style */
 
  #welcome {
-    height: 400px;
+    height: 500px;
     width: 100%;
     position: relative;
  }
 
  #welcome-image {
-    background: url('../images/welcome-6000x4000.jpeg') center center no-repeat font-size="10%";
-    text-align:center;
+    background: url('../images/welcome-6000x4000.jpeg') center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
  }
 
  #welcome-text-cover {
@@ -90,10 +94,11 @@ section a:hover {
     height:270px;
     color:white;
     font-weight: bold;
+    border-radius:15%;
 
-    background-color: rgba(0, 0, 139, 0.6);
+    background-color: rgba(0, 0, 139, 0.4);
 
-    bottom: 17%;
+    bottom: 15%;
     left: 10%;
     position: absolute;
 }
@@ -119,7 +124,7 @@ section a:hover {
     text-align: left;
     margin: 0 auto;
     position: relative;
-    top: 20%;
+    top: 10%;
     border-radius: 15%;
  }
 
@@ -134,3 +139,39 @@ section a:hover {
     background-color: white;
  }
 
+ /* three sections style */
+
+ #three-sections {
+    height:300px;
+    padding-top:60px;
+    text-align: center;
+ }
+
+ #three-sections > div {
+    display: inline-block;
+    border-radius:10%;
+    height:100%;
+    width: 33%;
+    text-align:center;
+ }
+
+ .left-about {
+    float:left;
+    height: 100%;
+    background-color:rgba(0, 0, 139, 0.4);
+    color:white;
+    font-weight: bold;
+ }
+
+ .right-about {
+    float:right;
+    margin: 0;
+    background-color:rgba(0, 0, 139, 0.4);
+    color:white;
+    font-weight: bold;
+ }
+
+ /*
+ .center-about {
+ }
+ */
