@@ -3,20 +3,14 @@
 * {
    margin: 0;
    padding: 0;
-   border: none;
 }
 
 h1, h2, h3 {
     font-family: francois-one, sans-serif;
-    padding: 0 20px;
     text-align: center;
 }
 
 /* all h1 h2 h3 have added padding and centered to save lines in code*/
-
-section div p {
-    padding: 0 20px;
-}
 
 p {
    font-family: unbounded, sans-serif;
@@ -117,6 +111,10 @@ section a:hover {
     position: absolute;
 }
 
+#welcome-text-cover p {
+   padding: 20px;
+}
+
  /* Style for the body of the index page*/
  h1 {
     text-align: center;
@@ -127,8 +125,8 @@ section a:hover {
  #what-is-a-crypto {
     height: 250px;
     width: 100%;
-    padding: 20px;
     text-align: center;
+    margin: 0 5px;
     display: block;
     clear: both;
  }
@@ -140,6 +138,8 @@ section a:hover {
     width: 50%;
     font-family: unbounded, sans-serif;
     text-align: center;
+    padding-top: 60px;
+    border-left: 5px;
     margin: auto;
     position: relative;
  }
@@ -175,6 +175,7 @@ section a:hover {
  #three-sections {
     height:300px;
     padding-top:60px;
+    margin-top: 30px;
     text-align: center;
     display: block;
  }
@@ -245,53 +246,71 @@ section a:hover {
   height: 100%;
   border-radius: 50%;
 }
+
+#list-token {
+display: block;
+padding:0;
+margin:0 0 50px;
+}
+
  .list-odd {
     background-color: rgba(205, 103, 2, 0.3);
     width: 50%;
+    height: 200px;
     float: left;
-    clear: both;
-    margin: 0;
+    margin: 0 auto;
+    padding: 0 10px;
  }
 
  .list-even {
     background-color: rgba(96, 96, 96, 0.4);
     width: 50%;
+    height: 200px;
     float: right;
-    clear: both;
-    margin: 0;
+    margin: 0 auto;
+    padding: 0 10px;
  }
 
  .list-odd h3, .list-even h3 {
     text-align: center;
-    width: 90%;
+    width: 100%;
     font-size: 130%;
  }
 
-.list-odd p{
+.list-odd p {
     text-align: left;
-    width: 90%;
-    clear: both;
-    margin: 0 5px;;
+    width: 100%;
  }
 
 .list-even p {
     text-align: right;
-    width: 90%;
-    clear: both;
-    margin: 0 5px;
+    width: 100%;
  }
 
 /* footer */
 
 #footer {
-   background-color: darkgray;
    height: 100px;
    width: 100%;
    bottom: 0;
    clear: both;
-   display: block;
+   margin: 20px 0 0;
+   background-color: rgba(96, 96, 96, 0.4)
 }
 
 .usefull-links > li {
    display: inline;
+   width: 100%;
+   margin-left: 15%;
+   text-align: center;
+}
+
+.usefull-links li a {
+   text-decoration:none;
+   color:black;
+}
+
+.usefull-links li a:hover {
+   color: #CD6702;
+   border-bottom: 1px solid #CD6702;
 }
