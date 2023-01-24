@@ -331,3 +331,9 @@ margin:0 0 50px;
    background-color: rgba(96, 96, 96, 0.3);
    height: 50px;
 }
+
+/* Buy page style */
+
+#buy-welcome {
+   text-align: center
+}
