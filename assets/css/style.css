@@ -5,7 +5,16 @@
    padding: 0;
 }
 
-h1, h2, h3 {
+h1 {
+   font-family: francois-one, sans-serif;
+   text-align: center;
+   font-size: 250%;
+   width: 100%;
+   margin: 20px 0;
+}
+
+
+h2, h3 {
     font-family: francois-one, sans-serif;
     text-align: center;
 }
@@ -27,8 +36,8 @@ section a {
 }
 
 section a:hover {
-    color:dimgrey;
-    border-bottom: 1px solid dimgrey;
+    color:#FF8C00;
+    border-bottom: 1px solid #FF8C00;
 }
 
 /* Style for header */
@@ -38,44 +47,60 @@ section a:hover {
     letter-spacing: 1px;
     width:100%;
     height: 50px;
-    left: 10px;
+    text-align: left;
     background-color: rgba(96, 96, 96, 0.3);
 }
 
 #menu li {
-        float: left;
         list-style-type: none;
-        margin-left: 10px;
-        margin-top: 10px;
-        text-align: center;
-        font-family:unbounded, sans-serif;
-        border-radius: 25%;
+        display: inline;
+        margin: 20px 20px;
+        height: 100%;
+        
 }
 
-#menu a {
+#menu li a {
     text-decoration:none;
     color:black;
+    font-family:unbounded, sans-serif;
+    height:100%;
+    margin-top: 10px;
 }
 
 #menu a:hover {
-    color: #CD6702;
-    border-bottom: 1px solid #CD6702;
+    color: #FF8C00;
+    border-bottom: 1px solid #FF8C00;
 }
 
 #menu .active {
-    color:#CD6702;
-    border-bottom: 1px solid #CD6702;
+    color:#FF8C00;
+    border-bottom: 1px solid #FF8C00;
 }
  #menu .small-logo {
-    color:#CD6702;
+    color:#FF8C00;
  }
 
  /* To add to the read me, I struggle to take out the background color from the small logo*/
 
+ #welcome-heading {
+   height: 50px;
+   width: 100%;
+ }
+
+
+ #welcome-heading-cover {
+   font-size: 250%;
+   text-align: center;
+   width: 100%;
+   top:0;
+   margin: 15px 0 20px;
+   color: black;
+ }
+
  /* welcome image style */
 
  #welcome {
-    height: 450px;
+    height: 500px;
     width: 100%;
  }
 
@@ -87,15 +112,6 @@ section a:hover {
     width: 100%;
  }
 
- #welcome-heading-cover {
-   font-size: 200%;
-   text-align: center;
-   width: 100%;
-   height:100px;
-   top: 0;
-   position: absolute;
- }
-
  #welcome-text-cover {
     font-size: 100%;
     text-align: justify;
@@ -103,9 +119,9 @@ section a:hover {
     height:270px;
     border-radius:15%;
 
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.8);
 
-    bottom: 40%;
+    bottom: 27%;
     left: 10%;
     position: absolute;
 }
@@ -115,11 +131,6 @@ section a:hover {
 }
 
  /* Style for the body of the index page*/
- h1 {
-    text-align: center;
-    color:#CD6702;
-    margin-top: 5%;
- }
 
  #what-is-a-crypto {
     height: 250px;
