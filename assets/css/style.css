@@ -346,5 +346,26 @@ margin:0 0 50px;
 /* Buy page style */
 
 #buy-welcome {
-   text-align: center
+   text-align: center;
+}
+
+/* table style */
+
+#data-entry {
+   border-style: solid;
+   background-color:rgba(218, 165, 32, 0.6);
+   width: 75%;
+   height: 500px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+#data-entry th {
+   border-style: solid;
+   
+}
+
+#data-entry td {
+   border-style: solid;
+   
 }
