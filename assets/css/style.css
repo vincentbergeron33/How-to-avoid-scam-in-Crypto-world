@@ -349,11 +349,43 @@ margin:0 0 50px;
    text-align: center;
 }
 
+#buy-exchanges {
+   height: 460px;
+   margin-top: 30px;
+   width:100%;
+   margin: 0 10px;
+}
+
+#buy-exchanges h2 {
+   margin-top: 50px;
+   width: 50%;
+   text-align: center;
+}
+
+#buy-exchanges p {
+   margin-top: 30px;
+   border: 0 10px;
+   width: 100%;
+}
+
+#list-buy {
+   list-style-type: upper-roman;
+   margin-left: 10px;
+   width: 70%;
+}
+
+
+#list-buy li {
+   width:50%;
+   display: block;
+   list-style-type: upper-roman;
+}
+
 /* table style */
 
 #data-entry {
-   border-style: solid;
-   background-color:rgba(218, 165, 32, 0.6);
+   border: solid 2px;
+   font-family: unbounded;
    width: 75%;
    height: 500px;
    margin: 0 auto;
@@ -361,11 +393,23 @@ margin:0 0 50px;
 }
 
 #data-entry th {
-   border-style: solid;
-   
+   border-bottom: solid 2px;
+   font-size: 110%;
+   background-color: rgba(96, 96, 96, 0.3);
 }
 
-#data-entry td {
-   border-style: solid;
-   
+.grey-table {
+   background-color: rgba(96, 96, 96, 0.3);
+}
+
+.gold-table {
+   background-color: rgba(218, 165, 32, 0.4);
+}
+
+.gold-table td {
+   border-right: solid 1px;
+}
+
+.grey-table td {
+   border-right: solid 1px;
 }
