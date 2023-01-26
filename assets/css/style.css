@@ -350,15 +350,14 @@ margin:0 0 50px;
 }
 
 #buy-exchanges {
-   height: 460px;
-   margin-top: 30px;
-   width:100%;
-   margin: 0 10px;
+   height: 100%;
+   width: 90%;
+   margin: 30px auto;
 }
 
 #buy-exchanges h2 {
    margin-top: 50px;
-   width: 50%;
+   width: 100%;
    text-align: center;
 }
 
@@ -369,16 +368,7 @@ margin:0 0 50px;
 }
 
 #list-buy {
-   list-style-type: upper-roman;
-   margin-left: 10px;
    width: 70%;
-}
-
-
-#list-buy li {
-   width:50%;
-   display: block;
-   list-style-type: upper-roman;
 }
 
 /* table style */
