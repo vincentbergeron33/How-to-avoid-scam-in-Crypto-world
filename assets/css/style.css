@@ -231,17 +231,15 @@ section a:hover {
  #section-type-token {
    margin: 30px 5px 50px;
    position: relative;
-   display: block;
  }
 
-#h2-token {
-   height: 200px;
+#heading-token {
+   height: 150px;
    width: 50%;
    font-size: 100%;
    text-align: center;
    float: right;
-   margin-bottom: 0;
-   
+   margin: 80px 0 0;
 }
 
 #token-left-image {
@@ -266,6 +264,10 @@ section a:hover {
   background-size: cover;
   height: 100%;
   border-radius: 50%;
+}
+
+#list-token-header li {
+   font-family: unbounded;
 }
 
 #list-token {
