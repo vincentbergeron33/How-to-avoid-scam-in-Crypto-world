@@ -115,19 +115,20 @@ section a:hover {
  #welcome-text-cover {
     font-size: 100%;
     text-align: justify;
-    width: 450px;
+    width: 350px;
     height:270px;
     border-radius:15%;
 
     background-color: rgba(255, 255, 255, 0.8);
 
-    bottom: 27%;
+    bottom: 100px;
     left: 10%;
     position: absolute;
 }
 
 #welcome-text-cover p {
    padding: 20px;
+   height: 100%;
 }
 
  /* Style for the body of the index page*/
@@ -147,8 +148,8 @@ section a:hover {
     float: left;
     width: 50%;
     font-family: unbounded, sans-serif;
-    text-align: center;
-    padding-top: 60px;
+    text-align: justify;
+    padding-top: 70px;
     border-left: 5px;
     margin: auto;
     position: relative;
@@ -183,7 +184,7 @@ section a:hover {
  /* three sections style */
 
  #three-sections {
-    height:300px;
+    height:400px;
     padding-top:60px;
     margin-top: 30px;
     text-align: center;
@@ -195,7 +196,15 @@ section a:hover {
     border-radius:10%;
     height:100%;
     width: 33%;
-    text-align:center;
+    text-align: left;
+ }
+
+ #three-sections p {
+   padding: 10px
+ }
+
+ #three-sections h2 {
+   padding-top: 10px
  }
 
  .left-about {
@@ -203,6 +212,8 @@ section a:hover {
     height: 100%;
     background-color: rgba(218, 165, 32, 0.4);
  }
+
+
 
  .right-about {
     float:right;
@@ -334,8 +345,8 @@ margin:0 0 50px;
 }
 
 .usefull-links li a:hover {
-   color: #CD6702;
-   border-bottom: 1px solid #CD6702;
+   color:#FF8C00;
+   border-bottom: 1px solid #FF8C00;
 }
 
 #copyright {
@@ -403,3 +414,68 @@ margin:0 0 50px;
 .grey-table td {
    border-right: solid 1px;
 }
+
+ /* Style for scam page */
+
+#form-scam {
+   background: url(../images/scam-6638x4425.jpg) center center no-repeat;
+   background-size: cover;
+   height: 1200px;
+}
+
+.report-form {
+   background-color:rgba(96, 96, 96, 0.5);
+   font-family: unbounded;
+   width:40%;
+   color: white;
+   left: 5%;
+   top: 25%;
+   position: absolute;
+   width: 40%;
+   padding: 20px;
+}
+
+.report-form > h3 {
+   margin: 20px auto;
+   text-align: left;
+}
+
+.text-input {
+   background-color: transparent;
+   color: white;
+   width: 100%;
+}
+
+.text-input:hover {
+   border-color:#FF8C00;
+}
+
+.scam-input {
+   background-color: transparent;
+   color: white;
+   width: 100%;
+   height: 300px;
+}
+
+.scam-input:hover {
+   border-color:#FF8C00;
+}
+
+.report-button {
+   width: 150px;
+   display: block;
+   margin: 30px auto;
+   padding: 10px 30px;
+   background-color:  rgba(218, 165, 32, 0.4);
+   color:white;
+}
+
+.report-button:hover {
+   border-color: white;
+}
+
+.radio-input {
+   display: block;
+}
+
+/* Better look and it is a responsible desgn for all dimension of screens */

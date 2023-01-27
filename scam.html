@@ -25,17 +25,41 @@
                     <a href="buy.html">Buy Crypto Safely</a>
                 </li>
                 <li>
-                    <a href="scam.html" class="active">Avoid Cryto Scam</a>
+                    <a href="scam.html" class="active">Report a Scam</a>
                 </li>
             </ul>
         </nav>
-        <br>
-        <h1>scam page</h1>
-        <p></p>
-        image
+        <h1>Report a scam</h1>
     </header>
-    <section>
-        
+    <section id="form-scam">
+        <form method="POST" action="https://" class="report-form">
+            <h2>Help others avoid the scam <i class="fa-solid fa-building-shield"></i></h2>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" class="text-input" required>
+            
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" class="text-input" required>
+
+            <label for="scam">Scam description</label>
+            <input id="scam" name="scam" type="text" class="scam-input" required>
+
+            <h3>What platform did the scammer used to contact you?</h3>
+
+            <label for="email">Email</label>
+            <input type="radio" id="email" name="scam-pathway" value="email" class="radio-input" required>
+            <label for="website">Website</label>
+            <input type="radio" id="website" name="scam-pathway" value="website" class="radio-input"  required>
+            <label for="twitter">Twitter</label>
+            <input type="radio" id="twitter" name="scam-pathway" value="twitter" class="radio-input"  required>
+            <label for="instagram">Instagram</label>
+            <input type="radio" id="instagram" name="scam-pathway" value="instagram" class="radio-input"  required>
+            <label for="telegram">Telegram</label>
+            <input type="radio" id="telegram" name="scam-pathway" value="telegram" class="radio-input"  required>
+            <label for="youtube">Youtube</label>
+            <input type="radio" id="youtube" name="scam-pathway" value="youtube" class="radio-input"  required>
+
+            <input class="report-button" type="submit" value="Report">
+        </form>
     </section>
     <footer id="footer">
         <br>
@@ -58,6 +82,5 @@
         </div>
     </footer>
 </body>
-
 <script src="https://kit.fontawesome.com/3142d29705.js" crossorigin="anonymous"></script>
 </html>
