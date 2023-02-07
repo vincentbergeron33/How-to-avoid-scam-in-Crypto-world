@@ -230,7 +230,7 @@ section a:hover {
  /* Type of token */
 
  #section-type-token {
-   margin: 30px 5px 50px;
+   margin: 30px 0px 50px;
    position: relative;
  }
 
@@ -238,7 +238,7 @@ section a:hover {
    height: 150px;
    width: 50%;
    font-size: 100%;
-   text-align: center;
+   text-align: justify;
    float: right;
    margin: 80px 0 0;
 }
@@ -303,12 +303,10 @@ margin:0 0 50px;
 
 .list-odd p {
     text-align: left;
-    width: 100%;
  }
 
 .list-even p {
     text-align: right;
-    width: 100%;
  }
 
 /* footer */
@@ -438,9 +436,11 @@ margin:0 0 50px;
    padding: 20px;
 }
 
-.report-form > h3 {
+
+
+.report-form > h3, .report-form > h2 {
    margin: 20px auto;
-   text-align: left;
+   text-align: center;
 }
 
 .text-input {
@@ -490,8 +490,7 @@ margin:0 0 50px;
    #three-sections {
       height:800px;
       padding-top:60px;
-      margin: 30px 10px 30px;
-      text-align: center;
+      margin: 30px 0 150px;
       display: block;
    }
   
@@ -500,15 +499,13 @@ margin:0 0 50px;
       border-radius:10%;
       height:33%;
       width: 100%;
-      text-align: center;
+      text-align:justify;
    }
    .left-about {
       float: none;
-      height: 100%;
+      padding-bottom: 100px;
       background-color: rgba(218, 165, 32, 0.4);
    }
-  
-  
   
    .right-about {
       float: none;
@@ -548,7 +545,7 @@ margin:0 0 50px;
 #header-left-about {
    float: none;
    width: 100%;
-   height: 40%;
+   height: 200px;
 }
 
 #header-left-about p, #header-left-about h2, #header-left-about hr  {
@@ -558,8 +555,78 @@ margin:0 0 50px;
 #header-right-image {
    float: none;
    width: 100%;
-   height: 60%;
    margin: 0px auto 30px;
    clear: both;
 }
+
+ /* Type of token */
+
+ #section-type-token {
+   margin: 20px 0px 30px;
+   display: block;
+ }
+
+#heading-token {
+   height: 150px;
+   width: 100%;
+   float: none;
+   margin: 0 auto;
+}
+
+#heading-token p, #heading-token hr, #heading-token h2 {
+   margin: 0 10px 0;
+}
+
+#token-left-image {
+   float: none;
+   width: 100%;
+}
+
+/* List of tokens */
+
+#list-token {
+   display: block;
+   padding:0;
+   width: 100%;
+   margin:0 0 50px;
+   }
+   
+.list-odd {
+   width: 100%;
+   height: 250px;
+   float: none;
+   margin: 10px 0;
+   padding: 0;
+}
+
+.list-even {
+   width: 100%;
+   height: 250px;
+   float: none;
+   margin: 10px 0;
+   padding: 0;
+}
+
+.list-odd h3, .list-even h3 {
+   text-align: center;
+   width: 100%;
+   font-size: 130%;
+}
+
+.list-even p, .list-even hr {
+   text-align: justify;
+   margin: 0 10px;
+}
+
+.list-odd p, .list-odd hr {
+   text-align: justify;
+   margin: 0 10px;
+}
+
+/* report form position*/
+.report-form {
+   top: 45%;
+   width: 50%;
+}
+
 }
