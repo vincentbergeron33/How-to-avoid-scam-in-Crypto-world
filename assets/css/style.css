@@ -535,10 +535,11 @@ margin:0 0 50px;
           margin: 0 auto;
   }
   
-  what-is-a-crypto {
-   height: 800px;
+  #what-is-a-crypto {
+   height: 500px;
    width: 100%;
    text-align: center;
+   margin-bottom: 90px;
    display: block;
 }
 
@@ -547,7 +548,7 @@ margin:0 0 50px;
 #header-left-about {
    float: none;
    width: 100%;
-   height: 50%;
+   height: 40%;
 }
 
 #header-left-about p, #header-left-about h2, #header-left-about hr  {
@@ -557,8 +558,8 @@ margin:0 0 50px;
 #header-right-image {
    float: none;
    width: 100%;
-   height: 50%;
-   margin: 30px auto;
-   background-color: white;
+   height: 60%;
+   margin: 0px auto 30px;
+   clear: both;
 }
 }
