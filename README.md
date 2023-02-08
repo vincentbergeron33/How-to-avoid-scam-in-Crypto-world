@@ -1,108 +1,108 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# How to avoid scam in crypto
 
-Welcome Vincent Bergeron,
+Right now, there are too many scams in the crypto space and people are learning how to deal with them by being a victim of it.This website explain you what is cryptocurrency and how to buy it to ensure to avoid scams. It compare the different cryptocurrency platform to guide you to the platform that will be a good fit for your needs. Finally, you can report a scam that has happened to you. The report of the scam will be kept in the database and, in a futur update of the website, showned on the page for other user to find if they are going through the same scam that other have been through. This way the website will help newcomer into crypto to avoid scam when buying cryptocurrency and use the website as a reference when they get messages or emails that they believe are not trustable.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Copy past the website here
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## Features
 
-## Gitpod Reminders
+The website inform the viewer on the latest cryptocurrency hot topics and exchanges. For this reason, the website is being updated every 3 months to ensure it follows the fast cahnging world of cryptocurrency. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The website is also a database of all the scams that viewers have reported. This database is going to be used for people who might me going through scam and want to confirm if anybody else went through this same scam.
 
-`python3 -m http.server`
+### Existing Features
 
-A blue button should appear to click: _Make Public_,
+__Navigation Bar__
 
-Another blue button should appear to click: _Open Browser_.
+- You can find on all three pages the same menu which includes the small Blockchain logo for estetic only and then three links to the Home Page (What is Cryptocurrrency?), Buy page (Buy Crypto Safely) and Scam page (Report a Scam).
+- This feature doesn't open the page on a different tab as each of the page has the top menu, this will ease the navigation of the viewers.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+__Home page welcome image__
 
-A blue button should appear to click: _Make Public_,
+- The landing page image is showing bitcoin which is the most popular coin and an app with prices which catch the eyes to new buyer of cryptocurrency.
 
-Another blue button should appear to click: _Open Browser_.
+- A small text is shown to smooth the transition from the title and the explaination of the cryptocurrency. The main word on search engine to find the page will be how to buy crypto or how to avoid scam, but before getting into those details, the website ensure that the viewers understand the concept of cryptocurrency.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Copy past land picture here
 
-To log into the Heroku toolbelt CLI:
+__what is crypto Section__
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- This section is to explain in a very general view what is cryptocurrency.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- A picture on the side has been put of the side to catch the eyes of the viewer in an orginal way. The text is on the left and picture on the right which is opposite of the next look alike section (Type of token).
 
-------
+__Three sections__
 
-## Release History
+- This section explain 3 really important definition that are not always understood in the crypto world. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- The definitions are shorts and aim to get the viewers curious about the subject. They can then search for more details and get better informed. A futur update of the website aim to add more details on those concept.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+__type of token__
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+- this token is a introduction to the list of the token below it.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- It aims to catch the eye and like the "What is crypto section" show the website in an original way. As mention above, the text and image are opposite to the other section.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+__list of token__
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+- The list of token follows the same patern of the Type of token and what is crypto section, they alternate left and right.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+- The description are shorts and aim to get the viewers curious about the subject. Most of them have example so the viewers can understand better the concept and start to to know some of the tokens.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+__footer__
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- The footer has 4 usefull links: Coinmarketcap (Coins encyclopedia), Binance (Platform), Coinbase (Platform) and Ledger (Solution to store crypto safely). 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+- Copyright have also been added into the footer.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+__Buy Crypto welcome image__
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- The image catch the eyes as it connect us dollars and bitcoin. It makes total sense as the next text on the page will be explaining how to buy crypto with a currency.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+__Buy using an exchange__
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- This section explain that the best way to buy crypto is by exchanges. It then explain that choosing a good exchange is really important.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- Three criterias are elaborated in this section which are also shown in the table below.
 
-------
+__Exchange table__
 
-## FAQ about the uptime script
+- To catch the eyes of the viewers and show the details of every exchange in a easy and simple way, a table is shown.
 
-**Why have you added this script?**
+- Four datas are shown in the table: Exchange's name, Overall rating, Financial reserve and deposit bonuses.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+- The viewers understand straight away the table has the data has been explained in the text just above it.
 
-**How will this affect me?**
+__Report a scam image__
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+- The welcome page covers all the whole page and catch the eyes as it is a bitcoin in the dirt. The dirt represent the though feeling of loosing money and being caught in a scam.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+__Report a scam form__
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+- The form has four entries: First name, Last name, Scam Description and platform which the scam has happened.
 
-**So….?**
+- The reports are put in the database. In a futur update of the website, the scams will be shown on the website and an easy search option will be featured for anybody to check if they are going to the same scam that someone else has reported.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+### Features left to implement
 
-**Can I opt out?**
+- The database of the scams shown dirrectly on the website.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+- A search feature to find a scam from the database.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+- A additional page explaining the main scams that are around in the crypto world.
 
-**Anything more?**
+## Testing
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+### Validator Testing
 
----
+### Unfixed Bugs
 
-Happy coding!
+## Deployment
+
+## Credits
+
+### Content
+### Media
+
+## Other General Project Advice
+
