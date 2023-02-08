@@ -226,6 +226,10 @@ section a:hover {
    margin: 80px 0 0;
 }
 
+#heading-token p, #heading-token h2, #heading-token hr  {
+   margin-right: 10px;
+ }
+
 #token-left-image {
    float: right;
    width: 50%;
