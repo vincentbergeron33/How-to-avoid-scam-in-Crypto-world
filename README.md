@@ -2,7 +2,7 @@
 
 Right now, there are too many scams in the crypto space and people are learning how to deal with them by being a victim of them. This website explain you what is a cryptocurrency and how to buy it to ensure you avoid scams. It compares the different existing cryptocurrency platform to guide you into choosing the right exchange. Finally, you can report a scam that has happened to you. The report of the scam will be kept in the database and, in a future update of the website, shown on the page for another user to find if they are going through the same scam that other have been through. This way the website will help newcomer into crypto to avoid scam when buying cryptocurrency and use the website as a reference when they get messages or emails that they believe are not trustable.
 
-Copy past the website here
+![Am I Responsive](assets/images/amiresponsive.png)
 
 ## Features
 
