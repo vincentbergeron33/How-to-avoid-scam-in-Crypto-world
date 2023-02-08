@@ -148,7 +148,7 @@ You can find below that all testing has been completed.
     -  In the setting / page, the source has been put on "Deploy from a branch" and the branch on "main" then click save
     -  The website is now deployed
 
-The live link can be found here: https://vincentbergeron33.github.io/How-to-avoid-scam-in-Crypto-world/index.html
+The live link can be found here: https://vincentbergeron33.github.io/How-to-avoid-scam-in-Crypto-world/
 
 ## Credits
 
