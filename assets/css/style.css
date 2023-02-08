@@ -621,30 +621,57 @@ margin:0 0 50px;
 @media screen and (max-width: 600px) {
 
    #what-is-a-crypto {
-      height: 600px;
+      height: 550px;
    }
 
    #header-left-about {
-      height: 350px;
+      height: 300px;
    }
 
    #three-sections {
-      height:1400px;
+      height:1250px;
 }
 
 #heading-token {
-   height: 220px;
+   height: 200px;
 }
 
 .list-odd {
-   height: 410px;
+   height: 380px;
 }
 
 .list-even {
-   height: 410px;
+   height: 380px;
 }
 
 #data-entry {
    font-size: 60%;
+}
+}
+
+@media screen and (max-width: 400px) {
+
+   #what-is-a-crypto {
+      height: 700px;
+   }
+
+   #header-left-about {
+      height: 450px;
+   }
+
+   #three-sections {
+      height:1600px;
+}
+
+#heading-token {
+   height: 300px;
+}
+
+.list-odd {
+   height: 470px;
+}
+
+.list-even {
+   height: 470px;
 }
 }
