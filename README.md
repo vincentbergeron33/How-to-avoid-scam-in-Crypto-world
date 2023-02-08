@@ -1,6 +1,6 @@
 # How to avoid scam in crypto
 
-Right now, there are too many scams in the crypto space and people are learning how to deal with them by being a victim of it.This website explain you what is cryptocurrency and how to buy it to ensure to avoid scams. It compare the different cryptocurrency platform to guide you to the platform that will be a good fit for your needs. Finally, you can report a scam that has happened to you. The report of the scam will be kept in the database and, in a futur update of the website, showned on the page for other user to find if they are going through the same scam that other have been through. This way the website will help newcomer into crypto to avoid scam when buying cryptocurrency and use the website as a reference when they get messages or emails that they believe are not trustable.
+Right now, there are too many scams in the crypto space and people are learning how to deal with them by being a victim of it. This website explain you what is cryptocurrency and how to buy it to ensure to avoid scams. It compares the different cryptocurrency platform to guide you to the platform that will be a good fit for your needs. Finally, you can report a scam that has happened to you. The report of the scam will be kept in the database and, in a future update of the website, shown on the page for anoother user to find if they are going through the same scam that other have been through. This way the website will help newcomer into crypto to avoid scam when buying cryptocurrency and use the website as a reference when they get messages or emails that they believe are not trustable.
 
 Copy past the website here
 
@@ -14,7 +14,7 @@ The website is also a database of all the scams that viewers have reported. This
 
 __Navigation Bar__
 
-- You can find on all three pages the same menu which includes the small Blockchain logo for estetic only and then three links to the Home Page (What is Cryptocurrrency?), Buy page (Buy Crypto Safely) and Scam page (Report a Scam).
+- You can find on all three pages the same menu which includes the small Blockchain logo for aestetic only and then three links to the Home Page (What is Cryptocurrency?), Buy page (Buy Crypto Safely) and Scam page (Report a Scam).
 
 - This feature doesn't open the page on a different tab as each of the page has the top menu, this will ease the navigation of the viewers.
 
@@ -30,37 +30,37 @@ __what is crypto Section__
 
 - This section is to explain in a very general view what is cryptocurrency.
 
-- A picture on the side has been put of the side to catch the eyes of the viewer in an orginal way. The text is on the left and picture on the right which is opposite of the next look alike section (Type of token).
+- A picture on the side has been put to catch the eyes of the viewer in an original way. The text is on the left and picture on the right which is opposite of the next look alike section (Type of token).
 
 ![What is crypto Section](assets/images/what-is-crypto.png)
 
 __Three sections__
 
-- This section explain 3 really important definition that are not always understood in the crypto world. 
+- This section explains 3 really important definition that are not always understood in the crypto world. 
 
-- The definitions are shorts and aim to get the viewers curious about the subject. They can then search for more details and get better informed. A futur update of the website aim to add more details on those concept.
+- The definitions are shorts and aim to get the viewers curious about the subject. They can then search for more details and get better informed. A future update of the website aim to add more details on this concept.
 
 ![Three Sections](assets/images/three-sections.png)
 
 __type of token__
 
-- this token is a introduction to the list of the token below it.
+- this token is an introduction to the list of the token below it.
 
-- It aims to catch the eye and like the "What is crypto section" show the website in an original way. As mention above, the text and image are opposite to the other section.
+- It aims to catch the eye and like the "What is crypto section" show the website in an original way. As mentioned above, the text and image are opposite to the other section.
 
 ![Type of Token](assets/images/type-of-token.png)
 
 __list of token__
 
-- The list of token follows the same patern of the Type of token and what is crypto section, they alternate left and right.
+- The list of token follows the same pattern of the Type of token and what is crypto section, they alternate left and right.
 
-- The description are shorts and aim to get the viewers curious about the subject. Most of them have example so the viewers can understand better the concept and start to to know some of the tokens.
+- The description are shorts and aim to get the viewers curious about the subject. Most of them have example so the viewers can understand better the concept and start to know some of the tokens.
 
 ![List of Token](assets/images/list-of-token.png)
 
 __footer__
 
-- The footer has 4 usefull links: Coinmarketcap (Coins encyclopedia), Binance (Platform), Coinbase (Platform) and Ledger (Solution to store crypto safely). 
+- The footer has 4 useful links: Coinmarketcap (Coins encyclopaedia), Binance (Platform), Coinbase (Platform) and Ledger (Solution to store crypto safely). 
 
 - Copyright have also been added into the footer.
 
@@ -68,15 +68,15 @@ __footer__
 
 __Buy Crypto welcome image__
 
-- The image catch the eyes as it connect us dollars and bitcoin. It makes total sense as the next text on the page will be explaining how to buy crypto with a currency.
+- The image catches the eyes as it connect us dollars and bitcoin. It makes total sense as the next text on the page will be explaining how to buy crypto with a currency.
 
 ![Buy Crypto welcome](assets/images/buy-crypto-welcome.png)
 
 __Buy using an exchange__
 
-- This section explain that the best way to buy crypto is by exchanges. It then explain that choosing a good exchange is really important.
+- This section explains that the best way to buy crypto is by exchanges. It then explains that choosing a good exchange is really important.
 
-- Three criterias are elaborated in this section which are also shown in the table below.
+- Three criteria are elaborated in this section which are also shown in the table below.
 
 ![Buy using exchanges](assets/images/buy-using-exchanges.png)
 
@@ -84,7 +84,7 @@ __Exchange table__
 
 - To catch the eyes of the viewers and show the details of every exchange in a easy and simple way, a table is shown.
 
-- Four datas are shown in the table: Exchange's name, Overall rating, Financial reserve and deposit bonuses.
+- Four data are shown in the table: exchange's name, overall rating, financial reserve and deposit bonuses.
 
 - The viewers understand straight away the table has the data has been explained in the text just above it.
 
@@ -92,21 +92,21 @@ __Exchange table__
 
 __Report a scam image__
 
-- The welcome page covers all the whole page and catch the eyes as it is a bitcoin in the dirt. The dirt represent the though feeling of loosing money and being caught in a scam.
+- The welcome page covers all the whole page and catch the eyes as it is a bitcoin in the dirt. The dirt represents the though feeling of losing money and being caught in a scam.
 
 ![Report scam welcome](assets/images/report-scam-welcome.png)
 
 __Report a scam form__
 
-- The form has four entries: First name, Last name, Scam Description and platform which the scam has happened.
+- The form has four entries: First name, Last name, Scam Description, and platform which the scam has happened.
 
-- The reports are put in the database. In a futur update of the website, the scams will be shown on the website and an easy search option will be featured for anybody to check if they are going to the same scam that someone else has reported.
+- The reports are put in the database. In a future update of the website, the scams will be shown on the website and an easy search option will be featured for anybody to check if they are going to the same scam that someone else has reported.
 
 ![Form Scam](assets/images/form-scam.png)
 
 ### Features left to implement
 
-- The database of the scams shown dirrectly on the website.
+- The database of the scams shown directly on the website.
 
 - A search feature to find a scam from the database.
 
@@ -114,7 +114,7 @@ __Report a scam form__
 
 ## Testing
 
-You can find below that all testing have been completed.
+You can find below that all testing has been completed.
 
 ### Validator Testing
 
@@ -137,7 +137,7 @@ You can find below that all testing have been completed.
 
 ### Unfixed Bugs
 
- - All bugs have been fixed. Performance could be upgraded by using smaller resolution pictures and by uptimizing the CSS file.
+ - All bugs have been fixed. Performance could be upgraded by using smaller resolution pictures and by optimizing the CSS file.
 
 ## Deployment
 
@@ -145,8 +145,20 @@ You can find below that all testing have been completed.
 
 ## Credits
 
+- Code ideas have been taken from the Love Running Website. The codes were never copy/paste. They were developed to follow the configuration of the website.
+
+- Investopedia was used as a reference for the rating of the exchanges.
+
+- Coinmarketcap was used for the financial reserve for the exchanges.
+
 ### Content
+
+- The icons in the navigation menu and the scam form were taken from [Font Awesome](https://fontawesome.com/).
+
+- The font family were taken from [Google Fonts](https://fonts.google.com)
+
 ### Media
 
-## Other General Project Advice
+- All pictures were taken from [Pexels](https://www.pexels.com/)
+
 
