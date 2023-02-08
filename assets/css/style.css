@@ -617,3 +617,35 @@ margin:0 0 50px;
 }
 
 }
+
+@media screen and (max-width: 600px) {
+
+   #what-is-a-crypto {
+      height: 600px;
+   }
+
+   #header-left-about {
+      height: 320px;
+   }
+
+   #three-sections {
+      height:1300px;
+}
+
+#heading-token {
+   height: 220px;
+}
+
+.list-odd {
+   height: 350px;
+}
+
+.list-even {
+   height: 350px;
+}
+
+#data-entry {
+   font-size: 60%;
+}
+
+}
