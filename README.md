@@ -141,7 +141,14 @@ You can find below that all testing has been completed.
 
 ## Deployment
 
+- The website has been deployed using Github following the below steps
+    -  The files have been prepared using Gitpod
+    -  The files have been pushed to Github using Git commands
+    -  The correct files in the repositories have been selected
+    -  In the setting / page, the source has been put on "Deploy from a branch" and the branch on "main" then click save
+    -  The website is now deployed
 
+The live link can be found here: https://vincentbergeron33.github.io/How-to-avoid-scam-in-Crypto-world/index.html
 
 ## Credits
 
