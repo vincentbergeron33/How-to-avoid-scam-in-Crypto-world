@@ -1,12 +1,12 @@
 # How to avoid scam in crypto
 
-Right now, there are too many scams in the crypto space and people are learning how to deal with them by being a victim of it. This website explain you what is cryptocurrency and how to buy it to ensure to avoid scams. It compares the different cryptocurrency platform to guide you to the platform that will be a good fit for your needs. Finally, you can report a scam that has happened to you. The report of the scam will be kept in the database and, in a future update of the website, shown on the page for anoother user to find if they are going through the same scam that other have been through. This way the website will help newcomer into crypto to avoid scam when buying cryptocurrency and use the website as a reference when they get messages or emails that they believe are not trustable.
+Right now, there are too many scams in the crypto space and people are learning how to deal with them by being a victim of them. This website explain you what is a cryptocurrency and how to buy it to ensure you avoid scams. It compares the different existing cryptocurrency platform to guide you into choosing the right exchange. Finally, you can report a scam that has happened to you. The report of the scam will be kept in the database and, in a future update of the website, shown on the page for another user to find if they are going through the same scam that other have been through. This way the website will help newcomer into crypto to avoid scam when buying cryptocurrency and use the website as a reference when they get messages or emails that they believe are not trustable.
 
 Copy past the website here
 
 ## Features
 
-The website inform the viewers on the latest cryptocurrency hot topics and exchanges. For this reason, the website is being updated every 3 months to ensure it follows the fast cahnging world of cryptocurrency. 
+The website inform the viewers on the latest cryptocurrency hot topics and exchanges. For this reason, the website is being updated every 3 months to ensure it follows the fast changing world of cryptocurrency. 
 
 The website is also a database of all the scams that viewers have reported. This database is going to be used for people who might me going through scam and want to confirm if anybody else went through this same scam.
 
@@ -16,13 +16,13 @@ __Navigation Bar__
 
 - You can find on all three pages the same menu which includes the small Blockchain logo for aestetic only and then three links to the Home Page (What is Cryptocurrency?), Buy page (Buy Crypto Safely) and Scam page (Report a Scam).
 
-- This feature doesn't open the page on a different tab as each of the page has the top menu, this will ease the navigation of the viewers.
+- This feature doesn't open the page in a different tab and all the pages has it. This is to ensure easy navigation between the pages.
 
 ![Nav Bar](assets/images/navigation%20menu.png)
 
 __Home page welcome image__
 
-- The landing page image is showing bitcoin which is the most popular coin and an app with prices which catch the eyes to new buyer of cryptocurrency.
+- The landing page image is showing bitcoin which is the most popular coin and an app with price action. The image catches the eyes to new buyer of cryptocurrency. 
 
 ![Index Welcome page](assets/images/welcome-image.png)
 
@@ -30,7 +30,7 @@ __what is crypto Section__
 
 - This section is to explain in a very general view what is cryptocurrency.
 
-- A picture on the side has been put to catch the eyes of the viewer in an original way. The text is on the left and picture on the right which is opposite of the next look alike section (Type of token).
+- A picture on the side has been put to catch the eyes of the viewer in an original way. The text is on the left and picture on the right. You will find the opposite set up in the section "Type of token".
 
 ![What is crypto Section](assets/images/what-is-crypto.png)
 
@@ -38,7 +38,7 @@ __Three sections__
 
 - This section explains 3 really important definition that are not always understood in the crypto world. 
 
-- The definitions are shorts and aim to get the viewers curious about the subject. They can then search for more details and get better informed. A future update of the website aim to add more details on this concept.
+- The definitions are shorts and aim to get the viewers curious about the subject. A future update of the website aim to add more details on those concepts.
 
 ![Three Sections](assets/images/three-sections.png)
 
@@ -52,7 +52,7 @@ __type of token__
 
 __list of token__
 
-- The list of token follows the same pattern of the Type of token and what is crypto section, they alternate left and right.
+- The list of token follows the same pattern, alternating right to left.
 
 - The description are shorts and aim to get the viewers curious about the subject. Most of them have example so the viewers can understand better the concept and start to know some of the tokens.
 
@@ -68,13 +68,13 @@ __footer__
 
 __Buy Crypto welcome image__
 
-- The image catches the eyes as it connect us dollars and bitcoin. It makes total sense as the next text on the page will be explaining how to buy crypto with a currency.
+- The image catches the eyes as it connects us dollars and bitcoin. It makes total sense as the next section on the page will be explaining how to buy crypto with a currency.
 
 ![Buy Crypto welcome](assets/images/buy-crypto-welcome.png)
 
 __Buy using an exchange__
 
-- This section explains that the best way to buy crypto is by exchanges. It then explains that choosing a good exchange is really important.
+- This section explains that the best way to buy crypto is by exchanges. It shows how important to do research about the exchanges before choosing it.
 
 - Three criteria are elaborated in this section which are also shown in the table below.
 
@@ -86,7 +86,7 @@ __Exchange table__
 
 - Four data are shown in the table: exchange's name, overall rating, financial reserve and deposit bonuses.
 
-- The viewers understand straight away the table has the data has been explained in the text just above it.
+- The viewers understand straight away the table has the data has been explained in the section just above it.
 
 ![Exchanges table](assets/images/exchanges-table.png)
 
@@ -118,7 +118,7 @@ You can find below that all testing has been completed.
 
 ### Validator Testing
 
-- HTML validator have been completed and all errors and waring have been fixed.
+- HTML validator have been completed and all errors and warnings have been fixed.
 
 ![HTML validator](assets/images/HTML-validator.png)
 
@@ -132,8 +132,8 @@ You can find below that all testing has been completed.
 
 - The performance is the only assessment which has not achieved 100 points. Two main factors explain the lack of performance:
 
-    - The size of the images is the main problem as it takes too long for the images to load. Smaller resolution of images should have been used for the website. This was the main problem of the performance and only that change will have boost greatly the performance.
-    - The CSS files is too heavy. To achieve a perfect performance, CSS file should have been reduced.
+    - The size of the images is the main problem as it takes too long for the images to load. Smaller resolution of images should have been used for the website. This was the main problem of the performance and only that change would have boosted greatly the performance.
+    - The CSS files is too heavy. To achieve a perfect performance, CSS file should have been optimised.
 
 ### Unfixed Bugs
 
